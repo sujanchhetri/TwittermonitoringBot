@@ -1,0 +1,12 @@
+{
+  "name": "twittermonitorscraper",
+  "version": "1.0.0",
+  "description": "A Twitter Scraper which monitors the scraped account...",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sujan Chhetri",
+  "license": "ISC"
+}
